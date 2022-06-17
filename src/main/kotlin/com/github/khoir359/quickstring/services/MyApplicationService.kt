@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.khoir359.quickstring.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.khoir359.quickstring.MyBundle
 
 class MyApplicationService {
 
